@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.19041.0",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "${default}",
+            "compilerPath": "A:/MinGw/x86_64-7.3.0-release-posix-seh-rt_v5-rev0/mingw64/bin/g++.exe"
+        }
+    ],
+    "version": 4
+}

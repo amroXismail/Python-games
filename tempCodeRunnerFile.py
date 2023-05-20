@@ -1,0 +1,1 @@
+(joysticks[0].get_axis(0)>0))
